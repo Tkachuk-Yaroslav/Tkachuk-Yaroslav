@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tkachuk-Yaroslav, a Frontend Developer from Kyiv, Ukraine.
-- 🌱 I’m currently learning React.
-- 💞️ I have two team and one individual projects.
+- 🌱 I’m currently learning Node.js.
+- 💞️ I have two team and three individual projects.
 - 📫 You can find me on my social networks.
 
 <!---
