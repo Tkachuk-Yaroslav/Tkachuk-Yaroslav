@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Tkachuk-Yaroslav, a Frontend Developer from Kyiv, Ukraine.
-- 🌱 I’m currently learning Node.js.
+- 👋 Hi, I’m @Tkachuk-Yaroslav, a QA Engineer from Kyiv, Ukraine.
+- 🌱 I’m currently learning WDIO.
 - 💞️ I have three team and five individual projects.
 - 📫 You can find me on my social networks.
 
